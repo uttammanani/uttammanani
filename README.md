@@ -10,7 +10,7 @@
         <a href="https://www.linkedin.com/in/uttammanani/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://www.youtube.com/channel/UCeGzYh5ee58-XL4Eo-x6C4Q">
+        <a href="https://www.youtube.com/@UttamManani">
             <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Badge"/>
         </a>
         <a href="https://twitter.com/Uttam_Manani">
